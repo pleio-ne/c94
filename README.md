@@ -27,6 +27,7 @@
 
 - PSD / sai / sai2
 - カラー 350dpi
+- グレースケール 350dpi
 - モノクロ 600dpi
 
 グラフィックさんで作成いたしますので、詳細は [同人誌印刷（中綴じ）](https://www.graphic.jp/comic/lineup/dojinshi/nakatoji.php) を参照ください。
